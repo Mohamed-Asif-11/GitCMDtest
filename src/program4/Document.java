@@ -45,6 +45,5 @@ public class Document {
 	public void setPages(int pages) {
 		this.pages = pages;
 	}
-	
-
 }
+//this is a sample program of document properties
